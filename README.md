@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Pong
 
-Rápida descrição do objetivo de fazer esse projeto
+Cássico jogo pong recirado com Javascript na plataforma p5.js
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Pong**
+| :label: Tecnologias | Javascript
+| :rocket: URL         | https://matheusporezeli.github.io/Pong-p5/
+| :fire: Desafio     | https://cursos.alura.com.br/course/pong-javascript
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![pong](https://user-images.githubusercontent.com/112051389/227963951-a886e97a-d839-4259-a8a8-1a1449a2b6d2.gif)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Jogo feito para praticar lógica de programação com conceitos básicos de Javascript
