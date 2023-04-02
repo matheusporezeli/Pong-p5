@@ -10,7 +10,7 @@ Cássico jogo pong recirado com Javascript na plataforma p5.js
 | :fire: Desafio     | https://cursos.alura.com.br/course/pong-javascript
 
 
-![pong](https://user-images.githubusercontent.com/112051389/227963951-a886e97a-d839-4259-a8a8-1a1449a2b6d2.gif)
+![pong](https://user-images.githubusercontent.com/112051389/227963951-a886e97a-d839-4259-a8a8-1a1449a2b6d2.gif#vitrinedev)
 
 
 ## Detalhes do projeto
